@@ -32,3 +32,6 @@ CSimpleMinimizer<DIM> Minimizer(Computer);
 Minimizer.minimizeFIRE();
 db.WriteState(System);
 ```
+
+Here is an image of such a configuration.
+![](https://samschoenholz.files.wordpress.com/2015/10/jammed.png)
